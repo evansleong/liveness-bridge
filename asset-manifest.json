@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/liveness-bridge/static/css/main.81cefd8a.css",
-    "main.js": "/liveness-bridge/static/js/main.4dbed315.js",
+    "main.js": "/liveness-bridge/static/js/main.fc7ce5ac.js",
     "static/js/453.5b56b904.chunk.js": "/liveness-bridge/static/js/453.5b56b904.chunk.js",
     "index.html": "/liveness-bridge/index.html",
     "main.81cefd8a.css.map": "/liveness-bridge/static/css/main.81cefd8a.css.map",
-    "main.4dbed315.js.map": "/liveness-bridge/static/js/main.4dbed315.js.map",
+    "main.fc7ce5ac.js.map": "/liveness-bridge/static/js/main.fc7ce5ac.js.map",
     "453.5b56b904.chunk.js.map": "/liveness-bridge/static/js/453.5b56b904.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81cefd8a.css",
-    "static/js/main.4dbed315.js"
+    "static/js/main.fc7ce5ac.js"
   ]
 }
