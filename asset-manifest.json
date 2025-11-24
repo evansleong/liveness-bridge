@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/liveness-bridge/static/css/main.e6c13ad2.css",
-    "main.js": "/liveness-bridge/static/js/main.d68892f2.js",
-    "static/js/453.6a884abe.chunk.js": "/liveness-bridge/static/js/453.6a884abe.chunk.js",
+    "main.css": "/liveness-bridge/static/css/main.81cefd8a.css",
+    "main.js": "/liveness-bridge/static/js/main.571da44e.js",
+    "static/js/453.5b56b904.chunk.js": "/liveness-bridge/static/js/453.5b56b904.chunk.js",
     "index.html": "/liveness-bridge/index.html",
-    "main.e6c13ad2.css.map": "/liveness-bridge/static/css/main.e6c13ad2.css.map",
-    "main.d68892f2.js.map": "/liveness-bridge/static/js/main.d68892f2.js.map",
-    "453.6a884abe.chunk.js.map": "/liveness-bridge/static/js/453.6a884abe.chunk.js.map"
+    "main.81cefd8a.css.map": "/liveness-bridge/static/css/main.81cefd8a.css.map",
+    "main.571da44e.js.map": "/liveness-bridge/static/js/main.571da44e.js.map",
+    "453.5b56b904.chunk.js.map": "/liveness-bridge/static/js/453.5b56b904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.d68892f2.js"
+    "static/css/main.81cefd8a.css",
+    "static/js/main.571da44e.js"
   ]
 }
